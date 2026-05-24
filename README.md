@@ -10,8 +10,7 @@ This is my personal portfolio website created using HTML, CSS, and JavaScript.
 - GitHub Pages Deployment
 
 ## Live Website
-https:// /my-portfolio/
-
+https://github.com/Sajidhuseyin/my-portfolio
 
 
 
